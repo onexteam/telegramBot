@@ -1,7 +1,7 @@
 import os
 
 #API ID & API Hash -----> my.telegram.org
-api_id = 0000000 
+api_id = 1088653
 api_hash = 'e28cc5d85c66rr785422fe3bf50e61f'
 
 #Bot Token -----> @BotFather
