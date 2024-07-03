@@ -2,17 +2,17 @@ import os
 
 #API ID & API Hash -----> my.telegram.org
 api_id = 1088653
-api_hash = 'e28cc5d85c66rr785422fe3bf50e61f'
+api_hash = 'e151caeac8a925c0491cc631021cc212'
 
 #Bot Token -----> @BotFather
-token = '8569471455:JJkiyA6MmuB570F4t5yVLmi92tWRqQi6rty'
+token = '7464492863:AAGtpFF4aMP1Udyb_w91MfS0X6gsrOcd9Ro'
 
 #Session Name -----> optional
 session_name = 'FTP_Manager'
 
 
 #The robot admin (the person who can give orders to the robot.) -----> @myidbot
-admins = [1117638015,1117638015,1117638015]
+admins = [6519108070]
 
 # Chat id to send technical logs
 dev = 1117638015
