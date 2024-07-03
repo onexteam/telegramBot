@@ -24,11 +24,11 @@ dl_path = os.path.abspath(os.getcwd()) + '/'
 
 
 # The upload path where we give FTP access to the bot.
-ftp_path = '/public_html/Bot/'
+ftp_path = '/Vods/'
 
 # The files are temporarily downloaded after they are on the bot server. They are uploaded to another host through FTP.
 # Here we have to give FTP access to the bot.
-ftp_ip = '95.136.117.620'
-ftp_username = 'FTP@domain.com'
-ftp_password = '12345678'
-ftp_domain = 'https://domain.com/Bot/'
+ftp_ip = '95.1'
+ftp_username = 'nox-cloud'
+ftp_password = 'a219945f-378b-483b-b6d21050a094-019a-4186'
+ftp_domain = 'storage.bunnycdn.com'
